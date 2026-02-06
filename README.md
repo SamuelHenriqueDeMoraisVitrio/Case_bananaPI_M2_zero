@@ -10,13 +10,19 @@ O design foi pensado para ser fácil de imprimir, montar e usar no dia a dia, ma
 
 ### Exemplos
 
-![Placa Doc Oficial](https://docs.banana-pi.org/bpi-m2zero/banana_pi_bpi-m2_zero_interface.jpg)
+<p align="center">
+  <img src="https://docs.banana-pi.org/bpi-m2zero/banana_pi_bpi-m2_zero_interface.jpg" width="500">
+</p>
 
-![Case baixa](images/case_down.png)
+<p align="center">
+  <img src="images/case_down.png" width="300">
+  <img src="images/Banana%20Pi.png" width="300">
+</p>
 
-![Case alta](images/Banana%20Pi.png)
+<p align="center">
+  <img src="images/Banana%20Pi.gif" width="400">
+</p>
 
-![Montagem](images/Banana%20Pi.gif)
 
 ---
 
