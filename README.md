@@ -17,9 +17,9 @@ O design foi pensado para ser fácil de imprimir, montar e usar no dia a dia, ma
 <p align="center">
   <img src="images/case_down_v2.png" width="300">
   <img src="images/case_up_v2.png" width="300">
+  <img src="images/Banana%20Pi_v2.png" width="300">
 </p>
 
-<img src="images/Banana%20Pi_v2.png" width="300">
 ---
 
 ### ✨ Características
